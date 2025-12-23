@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "†吸tie Ladies†",
+  "base_artist": "ソフィー・トワイライト(CV:富田美憂)、天野灯(CV:篠原侑)、夏木ひなた(CV:Lynn)、エリー(CV:和氣あず未)",
+  "createdAt": "2025-12-23T02:39:59.258296Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "†吸tie Ladies†",
+      "artist": "ソフィー・トワイライト (CV: 富田美憂), 天野灯 (CV: 篠原 侑), 夏木ひなた (CV: Lynn) & エリー (CV: 和氣あず未)",
+      "has_synced": true,
+      "path": "select/01_†吸tie_Ladies†_ソフィー・トワイライト_(CV__富田美憂),_天野灯_(CV__篠原_侑),_夏木ひなた_(CV__Lynn)_&_エリー_(CV__和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "†吸tie Ladies†",
+      "artist": "ソフィー・トワイライト(CV:富田美憂)、天野灯(CV:篠原侑)、夏木ひなた(CV:Lynn)、エリー(CV:和氣あず未)",
+      "has_synced": true,
+      "path": "select/02_†吸tie_Ladies†_ソフィー・トワイライト(CV_富田美憂)、天野灯(CV_篠原侑)、夏木ひなた(CV_Lynn)、エリー(CV_和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "†吸tie Ladies†",
+      "artist": "ソフィー・トワイライト (CV:富田美憂), 天野灯 (CV:篠原侑), 夏木ひなた (CV:Lynn) & エリー (CV:和氣あず未)",
+      "has_synced": true,
+      "path": "select/03_†吸tie_Ladies†_ソフィー・トワイライト_(CV_富田美憂),_天野灯_(CV_篠原侑),_夏木ひなた_(CV_Lynn)_&_エリー_(CV_和氣あず未).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "†吸tie Ladies†",
+      "artist": "ソフィー・トワイライト (CV: 富田美憂)",
+      "has_synced": true,
+      "path": "select/04_†吸tie_Ladies†_ソフィー・トワイライト_(CV__富田美憂).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "†吸tie Ladies†",
+      "artist": "ソフィー・トワイライト(富田美憂), 天野灯(篠原侑), 夏木ひなた(Lynn), エリー(和氣あず未)",
+      "has_synced": false,
+      "path": "select/pl_01_†吸tie_Ladies†_ソフィー・トワイライト(富田美憂),_天野灯(篠原侑),_夏木ひなた(Lynn),_エリー(和氣あず未).txt"
+    }
+  ]
+}
